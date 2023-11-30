@@ -19,6 +19,13 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Schooling</h2>
+Houston Community College, Current, Houston Texas
+Associate in Applied Science with a specialization in Cyber Security
+
+Ohio Technical College, Graduated 2009, Cleveland Ohio
+Collision Repair, Custom Paint and Graphics
+
+Addison High School, Graduated 2007, Addison Michigan
 
 <h2>WordCloud</h2>
 
