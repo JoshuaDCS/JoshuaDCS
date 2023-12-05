@@ -4,8 +4,6 @@
 
 - <b>National Cyber League</b>
   - [Team Game Scouting Report](https://cyberskyline.com/report/JKH2YFB20PB7)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -35,7 +33,8 @@ Graduated 2007, Addison Michigan
 <h2>WordCloud</h2>
 
 <h2>Documents</h2>
-
+- <b>Resume</b>
+  - [Rsume](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
 
 <h2> 🤳 Connect with me:</h2>
