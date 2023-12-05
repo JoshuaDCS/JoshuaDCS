@@ -4,30 +4,24 @@
 
 - <b>National Cyber League</b>
   - [Team Game Scouting Report](https://cyberskyline.com/report/JKH2YFB20PB7)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Schooling</h2>
-<b>Houston Community College</b> 
+- <b>Houston Community College</b> 
 Current, Houston Texas
 Associate in Applied Science with a specialization in Cyber Security
 
 
-<b>Ohio Technical College</b>
+- <b>Ohio Technical College</b>
 Graduated 2009, Cleveland Ohio
 Collision Repair, Custom Paint and Graphics
 
 
-<b>Addison High School</b>
+- <b>Addison High School</b>
 Graduated 2007, Addison Michigan
 
 <h2>WordCloud</h2>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Wordcloud</b>
+  - [Wordcloud](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/wordcloud.jpg)
 
 <h2>Documents</h2>
 - <b>Resume</b>
