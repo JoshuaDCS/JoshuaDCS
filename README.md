@@ -2,8 +2,8 @@
 
 <h2>Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>National Cyber League</b>
+  - [Team Game Scouting Report](https://cyberskyline.com/report/JKH2YFB20PB7)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -19,13 +19,18 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>Schooling</h2>
-Houston Community College, Current, Houston Texas
+<b>Houston Community College</b> 
+Current, Houston Texas
 Associate in Applied Science with a specialization in Cyber Security
 
-Ohio Technical College, Graduated 2009, Cleveland Ohio
+
+<b>Ohio Technical College</b>
+Graduated 2009, Cleveland Ohio
 Collision Repair, Custom Paint and Graphics
 
-Addison High School, Graduated 2007, Addison Michigan
+
+<b>Addison High School</b>
+Graduated 2007, Addison Michigan
 
 <h2>WordCloud</h2>
 
