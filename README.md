@@ -34,7 +34,7 @@ Graduated 2007, Addison Michigan
 
 <h2>Documents</h2>
 - <b>Resume</b>
-  - [Rsume](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Resume](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/Resume%20(1).docx)
 
 
 <h2> 🤳 Connect with me:</h2>
