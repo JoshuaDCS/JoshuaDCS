@@ -6,6 +6,8 @@
   - [Team Game Scouting Report](https://cyberskyline.com/report/JKH2YFB20PB7)
 
 <h2>Schooling</h2>
+
+
 - <b>Houston Community College</b> 
 Current, Houston Texas
 Associate in Applied Science with a specialization in Cyber Security
@@ -23,10 +25,15 @@ Graduated 2007, Addison Michigan
 [Addison H.S.](https://www.addisonschools.org/)
 
 <h2>WordCloud</h2>
+
+
 - <b>Wordcloud</b>
   - [Wordcloud](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/wordcloud.jpg)
 
+
 <h2>Documents</h2>
+
+
 - <b>Resume</b>
   - [Resume](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/Resume%20(1).docx)
 
