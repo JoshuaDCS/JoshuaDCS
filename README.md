@@ -7,6 +7,9 @@
  
 - <b>Netlab Sec+ Labs</b>
   - [Lab Usage Report](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/lab_usage%20(1).csv)
+ 
+- <b>NICE Challenge</b>
+  -[NICE Challenge Results](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/JoshuaKisner_NCPReport92696-combined.pdf)
 
 <h2>Schooling</h2>
 
