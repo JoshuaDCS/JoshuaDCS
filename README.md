@@ -9,19 +9,19 @@
 
 
 - <b>Houston Community College</b> 
-Current, Houston Texas
-Associate in Applied Science with a specialization in Cyber Security
+ -Current, Houston Texas
+  -Associate in Applied Science with a specialization in Cyber Security
 [HCC](https://www.hccs.edu/)
 
 
 - <b>Ohio Technical College</b>
-Graduated 2009, Cleveland Ohio
-Collision Repair, Custom Paint and Graphics
+ -Graduated 2009, Cleveland Ohio
+  -Collision Repair, Custom Paint and Graphics
 [OTC](https://www.ohiotech.edu/)
 
 
 - <b>Addison High School</b>
-Graduated 2007, Addison Michigan
+ -Graduated 2007, Addison Michigan
 [Addison H.S.](https://www.addisonschools.org/)
 
 <h2>WordCloud</h2>
