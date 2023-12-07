@@ -2,7 +2,8 @@
 
 <h2>Introduction</h2>
 
-
+- <b>Introduction</b>
+  - [Introduction](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/Intro.docx)
 
 <h2>Cyber Security Projects:</h2>
 
