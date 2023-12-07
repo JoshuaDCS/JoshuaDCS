@@ -6,7 +6,7 @@
   - [Team Game Scouting Report](https://cyberskyline.com/report/JKH2YFB20PB7)
  
 - <b>Netlab Sec+ Labs</b>
-  - 
+  - [Lab Usage Report](https://github.com/JoshuaDCS/JoshuaDCS/blob/main/lab_usage%20(1).csv)
 
 <h2>Schooling</h2>
 
